@@ -71,7 +71,7 @@ Just click the following Button to start the configuration automatically (for th
 Use the following steps for a manual configuration by adding the custom integration using the web interface and follow instruction on screen:
 
 - Go to `Configuration -> Integrations` and add "SENEC.Home" integration
-- Select the Integration Type (basically LAN ot WebApi)
+- Select the Integration Type (basically LAN or WebApi)
 - LAN: (`SENEC.Home V3 hybrid/SENEC.Home V3 hybrid duo` or `SENEC.Home V2.1 or older`
   or `Internal inverter build into SENEC.Home V3 hybrid/hybrid duo`)
     - Provide display name for the device and its address (hostname or IP)
